@@ -1,7 +1,7 @@
 import styles from '../styles/About.module.css';
 import Image from 'next/image';
 import logo from '../../public/images/logo.png';
-import BackButton from '../components/BackButton'; // Import the BackButton
+import BackButton from '../components/BackButton'; 
 
 export default function About() {
   return (

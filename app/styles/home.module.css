@@ -116,6 +116,50 @@
   line-height: 1.6;
 }
 
+/* Service items styling */
+.serviceItem {
+  flex: 1;
+  background-color: #21262d;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, border 0.3s ease, box-shadow 0.3s ease;
+  border: 2px solid transparent;
+  text-align: center;
+}
+
+.serviceItem h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.serviceItem p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Add hover effect */
+.serviceItem:hover {
+  border: 3px solid #00ff66; /* Green border highlight */
+  transform: translateY(-10px); /* Slight lift effect */
+  box-shadow: 0px 4px 10px rgba(0, 255, 102, 0.5); /* Glowing shadow */
+}
+
+/* Make the whole box clickable */
+.serviceItem a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Add some padding to service container */
+.serviceItems {
+  padding-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
 /* Footer */
 .footer {
   background-color: #0d1117;

@@ -30,16 +30,19 @@ export default function Home() {
         <h2>Our Services</h2>
         <div className={styles.serviceItems}>
           <div className={styles.serviceItem}>
-            <h3>Phishing Link Scanner</h3>
-            <p>Protect yourself from phishing attacks with our real-time scanner.</p>
+          <a href="https://phishinglinkcanner.lol" target="_blank" rel="noopener noreferrer">
+            <h3>Phishing Link Scanner (Free)</h3>
+            <p>Protect yourself from phishing attacks with our real-time scanner.</p></a>
           </div>
           <div className={styles.serviceItem}>
+          <a href="https://github.com/muhammedp07/vulnerability-management-system" target="_blank" rel="noopener noreferrer">
             <h3>Vulnerability Management</h3>
-            <p>Stay ahead of threats with our comprehensive vulnerability management tools.</p>
+            <p>Stay ahead of threats with our comprehensive vulnerability management tools.</p></a>
           </div>
           <div className={styles.serviceItem}>
+          <a href="https://www.linkedin.com/in/muhammedpatel007/" target="_blank" rel="noopener noreferrer">
             <h3>Consulting</h3>
-            <p>Get expert advice on data security, best practices, and more.</p>
+            <p>Get expert advice on data security, best practices, and more. connect with me on LinkedIn</p></a>
           </div>
         </div>
       </section>

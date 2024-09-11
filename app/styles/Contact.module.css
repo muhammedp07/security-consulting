@@ -1,0 +1,25 @@
+/* Contact.module.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .header {
+    background: #d0d0d0;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .main {
+    flex: 1;
+    padding: 2rem;
+  }
+  
+  .footer {
+    background: #d0d0d0;
+    padding: 1rem;
+    text-align: center;
+  }
+  

@@ -33,8 +33,7 @@ export default function Contact() {
           <div className={styles.socialLinks}>
             <a href="https://www.linkedin.com/in/muhammedpatel007/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <a href="https://github.com/muhammedp07" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://twitter.com/username" target="_blank" rel="noopener noreferrer">Twitter</a>
-            <a href="https://discord.com/invite/yourinvitecode" target="_blank" rel="noopener noreferrer">Discord</a>
+            <a href="https://twitter.com/p41n_0" target="_blank" rel="noopener noreferrer">Twitter</a>
           </div>
         </div>
       </main>

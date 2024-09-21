@@ -17,7 +17,15 @@ export default function About() {
       
       <section className={styles.hero}>
         <h1>About Us</h1>
-        <p>Information about your background, experience, and the consulting services you offer.</p>
+        <p>
+          🔭 I’m currently working on becoming a better version of myself every day. <br />
+          🌱 I’m learning threat analysis, penetration testing, and vulnerability assessment. <br />
+          🎭 I’m open to collaborating on any project—literally anything! <br />
+          💬 Ask me about cybersecurity secrets (shh, don’t tell the hackers), my code's trust issues, 
+          or how I'm the superhero Gotham never asked for. Let’s chat about hacking, coding, 
+          and transforming coffee into code! <br />
+          ⚡ Fun fact: I think I’m funny (and I genuinely am!).
+        </p>
       </section>
 
       <BackButton /> {/* Include the BackButton */}

@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Live here: https://security-consulting-jn34.vercel.app/
+
 # Security Consulting Website
 
 This is a **Next.js** project that showcases a static website for cybersecurity consulting services. It highlights the different security-related projects developed by the team and offers consulting services to help clients secure their data and protect themselves from cyber threats.
